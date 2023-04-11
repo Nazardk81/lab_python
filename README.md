@@ -1,3 +1,3 @@
-git init lab_piton
-cd lab_piton
+git init lab_python
+cd lab_python
 git status
