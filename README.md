@@ -1,23 +1,9 @@
 
-3.  git init lab_python
+### Author
 
-    cd lab_python
-    
-    git status
-
-4.  Created files README.md & .gitignore 
-
-     Copypasted gitignore
-
-     Added everything to the staging area using git add README.md .gitignore & commited everything with git commit -m "first commit"
-     
-5.  git checkout -b first_branch
-
-    git status
-
-    git checkout master
-
-    git log --pretty=oneline
-
-    git merge master first_branch
-
+| **Full name:** | **Nazar Yatsyshyn** |
+|:---:| --- |
+| **Organization/University:** | [Igor Sikorsky Kyiv Polytechnic Institute](https://kpi.ua/en) |
+| **Department:** | [The Department of Design of Electronic Digital Equipment](http://www.keoa.kpi.ua/wp/) |
+| **Telegram:** | [@forest_541](https://t.me/forest_541) |
+| **Email:** | [nazar10klas@gmail.com](mailto:nazar10klas@gmail.com) |
